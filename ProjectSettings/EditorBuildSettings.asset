@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/L1_Recipe.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/L2_Find_ingredients.unity
+    guid: 270e5686456f63b4fa3462386333c730
+  - enabled: 1
+    path: Assets/Scenes/L3_Prep.unity
+    guid: bf238e12edbc0c8479b26d7beffbb141
+  - enabled: 1
+    path: Assets/Scenes/L4_Cook.unity
+    guid: 094fbca08073dee419d0e6f16a3eb52f
+  - enabled: 1
+    path: Assets/Scenes/L5_Plating.unity
+    guid: 3873d61b757b7cd4cbfd09e57ed9b7fd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
